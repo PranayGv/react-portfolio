@@ -1,0 +1,20 @@
+p{
+    padding-left: 15rem;
+    padding-right: 14rem;
+}
+
+/* ===============Med=Devices=============== */
+@media screen and (max-width: 1024px) {
+    p{
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+    }
+    
+    /* ===============Small=Devices=============== */
+    @media screen and (max-width: 600px) {
+        p{
+            padding-left: 1.5rem;
+            padding-right: 1.5rem;
+        }
+    }
