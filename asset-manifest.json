@@ -1,7 +1,7 @@
 {
-  "main.css": "/react-portfolio/static/css/main.1fb8aea0.chunk.css",
-  "main.js": "/react-portfolio/static/js/main.b2f7b574.chunk.js",
-  "main.js.map": "/react-portfolio/static/js/main.b2f7b574.chunk.js.map",
+  "main.css": "/react-portfolio/static/css/main.d8bc2a16.chunk.css",
+  "main.js": "/react-portfolio/static/js/main.2a80db4a.chunk.js",
+  "main.js.map": "/react-portfolio/static/js/main.2a80db4a.chunk.js.map",
   "static/js/1.f1967ebe.chunk.js": "/react-portfolio/static/js/1.f1967ebe.chunk.js",
   "static/js/1.f1967ebe.chunk.js.map": "/react-portfolio/static/js/1.f1967ebe.chunk.js.map",
   "runtime~main.js": "/react-portfolio/static/js/runtime~main.f8926043.js",
@@ -11,8 +11,8 @@
   "static/media/Hellobot.png": "/react-portfolio/static/media/Hellobot.d93f984a.png",
   "static/media/Arduino_Uno.jpg": "/react-portfolio/static/media/Arduino_Uno.c6e58e4d.jpg",
   "static/media/ytdownload.png": "/react-portfolio/static/media/ytdownload.105c21cb.png",
-  "static/css/main.1fb8aea0.chunk.css.map": "/react-portfolio/static/css/main.1fb8aea0.chunk.css.map",
+  "static/css/main.d8bc2a16.chunk.css.map": "/react-portfolio/static/css/main.d8bc2a16.chunk.css.map",
   "index.html": "/react-portfolio/index.html",
-  "precache-manifest.6ba3bfd423b1b94014a65c7136f50bb4.js": "/react-portfolio/precache-manifest.6ba3bfd423b1b94014a65c7136f50bb4.js",
+  "precache-manifest.71a88f0f026e42cc21cb673dd39b59cb.js": "/react-portfolio/precache-manifest.71a88f0f026e42cc21cb673dd39b59cb.js",
   "service-worker.js": "/react-portfolio/service-worker.js"
 }
